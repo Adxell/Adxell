@@ -3,7 +3,7 @@
 <h3 align="center" > A passionate backend and frontend developer from Colombia </h3>
 
 - I'm software develement web 
-- 🌱 I’m currently learning TypeScript, Nest.js, Next.js
+- 🌱 I’m currently learning TypeScript, Nest.js, Angular
 - 📫 How to reach me adxell02@gmail.com
 <!---
 Adxell/Adxell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
