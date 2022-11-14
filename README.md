@@ -1,16 +1,27 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" style="display:flex; align-items:center; justify-content: center;"align="start">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+    <h2 align="center" style="font-size: 30px; margin-left: 20px"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Adxell Adrin Arango Solano</h2>
 </div>
-<h1 align="center" > Hi 👋, I'm Adxell Adrin Arango Solano</h1>
+<hr />
+<div align="center" >
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="margin-top: 10px"/>
+</div>
 
-<h3 align="center" > A passionate backend and frontend developer from Colombia </h3>
+---
 
-- I'm software develement web 
-- 🌱 I’m currently learning Angular
+### 🕵️‍♂️ About Me:
+
+I am a Full Stack Developer from Colombia.
+
+- 📰 I have experience working with tech like javaScript, python. I love javaScript
+- 📚 I’m currently learning Angular
 - 📫 How to reach me adxell02@gmail.com
+- ♟ In my free time, I play chess 😜
 
- <img src="https://komarev.com/ghpvc/?username=Adxell" alt=""/>
- 
+---
+
+### 🛠 Languages and Tools:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Java" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,8 +48,10 @@
 
 ### :fire: My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adxell)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-Adxell/Adxell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adxell&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adxell&count_private=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adxell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=Adxell" alt=""/>
