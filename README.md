@@ -55,4 +55,7 @@ I am a Full Stack Developer from Colombia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adxell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adxell&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <img src="https://komarev.com/ghpvc/?username=Adxell" alt=""/>
