@@ -1,9 +1,6 @@
 <div id="header" style="display:flex; align-items:center; justify-content: center;" align="start">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
-  <div>
-  <h3 style="font-size: 30px; margin-left: 20px"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Adxell Adrin Arango Solano</h3>
-  </div>
-  
+    <h3 style="font-size: 30px; margin-left: 20px"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Adxell Adrin Arango Solano</h3>
 </div>
 
 ---
