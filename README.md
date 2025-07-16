@@ -3,13 +3,6 @@
     <h3 style="font-size: 30px; margin-left: 20px" align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Adxell Adrian Arango Solano</h3>
 </div>
 
----
-
-<div align="center" >
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="margin-top: 10px"/>
-</div>
-
----
 
 ### 🕵️‍♂️ About Me:
 
