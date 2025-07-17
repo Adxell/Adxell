@@ -44,6 +44,4 @@ I am a Full Stack Developer from Colombia.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adxell&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adxell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://komarev.com/ghpvc/?username=Adxell" alt=""/>
