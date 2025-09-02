@@ -1,5 +1,4 @@
 <div id="header" align="center" >
-  <img align="center" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
     <h3 style="font-size: 30px; margin-left: 20px" align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Adxell Adrian Arango Solano</h3>
 </div>
 
@@ -8,7 +7,7 @@
 
 I am a Full Stack Developer from Colombia.
 
-- 📰 I have experience working with tech like javaScript, python. I love javaScript
+- 📰 I have experience working with tech like javaScript, python. I love python 
 - 📚 I’m currently learning Angular
 - 📫 How to reach me adxell02@gmail.com
 - ♟ In my free time, I play chess 😜
