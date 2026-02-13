@@ -15,6 +15,7 @@ I am a Full Stack Developer from Colombia.
 ---
 
 ### Projects:
+
 [Triangular arbitrage bot](https://github.com/Adxell/triangular-arbitrage-bot) - An automated arbitrage trading bot for Binance.
 ---
 
