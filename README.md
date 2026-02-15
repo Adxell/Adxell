@@ -16,6 +16,7 @@ I am a Full Stack Developer from Colombia.
 
 ### Projects:
 
+* [Sheetsense](https://github.com/Adxell/Sheetsense) - An AI-powered Excel reporting platform. Upload any spreadsheet, and AI analyzes your data to generate professional Excel reports with editable charts. 
 * [Triangular arbitrage bot](https://github.com/Adxell/triangular-arbitrage-bot) - An automated arbitrage trading bot for Binance.
 ---
 
