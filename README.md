@@ -7,7 +7,7 @@
 
 I am a Full Stack Developer from Colombia.
 
-- 📰 I have experience working with tech like javaScript, python. I love python 
+- 📰 I have experience working with tech like javaScript, python, go. I love python 
 - 📚 I’m currently learning Angular
 - 📫 How to reach me adxell02@gmail.com
 - ♟ In my free time, I play chess 😜
